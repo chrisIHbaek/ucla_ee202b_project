@@ -1,6 +1,10 @@
-How to use:
+Simply run make command to compile to code.
 
-root@odroid:/home/odroid/Desktop/EE202B_project/power_model_files/matrices# ./auto_exe_time matrix_input matrix_300.txt 
+You may run the tools as shown below.
+./time_measurement_tool matrix_input matrix_300.txt
+The first input argument is a matrix multiplication program to run and the second argument is the matrix input file.
+
+root@odroid:/home/odroid/Desktop/EE202B_project/power_model_files/matrices# ./time_measurement_tool matrix_input matrix_300.txt 
 Measurement done for 250MHz
 Measurement done for 300MHz
 Measurement done for 350MHz
