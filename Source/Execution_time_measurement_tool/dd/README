@@ -1,3 +1,10 @@
+Simply run make command to compile to code.
+
+You may run the tools as shown below.
+./time_measurement_tool dd_program 10000000
+first input argument is the program to run and the second argument is the count argument for dd command.
+
+An terminal output log example is given below:
 root@odroid:/home/odroid/Desktop/EE202B_project/power_model_files/EE202B_codes/Source/Execution_time_measurement_tool/dd# ./time_measurement_tool dd_program 10000
 10000+0 records in
 10000+0 records out
