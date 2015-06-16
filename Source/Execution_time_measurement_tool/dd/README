@@ -1,0 +1,74 @@
+root@odroid:/home/odroid/Desktop/EE202B_project/power_model_files/EE202B_codes/Source/Execution_time_measurement_tool/dd# ./time_measurement_tool dd_program 10000
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.112938 s, 45.3 MB/s
+Measurement done for 250MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0880556 s, 58.1 MB/s
+Measurement done for 300MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0800402 s, 64.0 MB/s
+Measurement done for 350MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0615137 s, 83.2 MB/s
+Measurement done for 400MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0581591 s, 88.0 MB/s
+Measurement done for 450MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0584255 s, 87.6 MB/s
+Measurement done for 500MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0446443 s, 115 MB/s
+Measurement done for 550MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0514651 s, 99.5 MB/s
+Measurement done for 600MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0464075 s, 110 MB/s
+Measurement done for 800MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0345695 s, 148 MB/s
+Measurement done for 900MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0370606 s, 138 MB/s
+Measurement done for 1000MHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0182542 s, 280 MB/s
+Measurement done for 1.10GHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0301036 s, 170 MB/s
+Measurement done for 1.20GHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0279375 s, 183 MB/s
+Measurement done for 1.30GHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0386315 s, 133 MB/s
+Measurement done for 1.40GHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0134245 s, 381 MB/s
+Measurement done for 1.50GHz
+10000+0 records in
+10000+0 records out
+5120000 bytes (5.1 MB) copied, 0.0222385 s, 230 MB/s
+Measurement done for 1.60GHz
+
+
+
+===================
+Measurement finished.
