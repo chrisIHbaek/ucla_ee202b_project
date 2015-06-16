@@ -1,2 +1,5 @@
-./auto matirx
-./auto dd_program
+Simply run make command to compile to code.
+
+You may run the tools as shown below.
+./power_measurement_tool matirx
+./power_measurement_tool dd_program
